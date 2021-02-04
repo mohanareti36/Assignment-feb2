@@ -1,0 +1,7 @@
+C:\Dotnet2021\ConsoleAssig(hw)\Assignment feb2\CustProjectPoco\CustProjectPoco\bin\Debug\CustProjectPoco.exe.config
+C:\Dotnet2021\ConsoleAssig(hw)\Assignment feb2\CustProjectPoco\CustProjectPoco\bin\Debug\CustProjectPoco.exe
+C:\Dotnet2021\ConsoleAssig(hw)\Assignment feb2\CustProjectPoco\CustProjectPoco\bin\Debug\CustProjectPoco.pdb
+C:\Dotnet2021\ConsoleAssig(hw)\Assignment feb2\CustProjectPoco\CustProjectPoco\obj\Debug\CustProjectPoco.csprojAssemblyReference.cache
+C:\Dotnet2021\ConsoleAssig(hw)\Assignment feb2\CustProjectPoco\CustProjectPoco\obj\Debug\CustProjectPoco.csproj.CoreCompileInputs.cache
+C:\Dotnet2021\ConsoleAssig(hw)\Assignment feb2\CustProjectPoco\CustProjectPoco\obj\Debug\CustProjectPoco.exe
+C:\Dotnet2021\ConsoleAssig(hw)\Assignment feb2\CustProjectPoco\CustProjectPoco\obj\Debug\CustProjectPoco.pdb
